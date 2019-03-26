@@ -1,8 +1,6 @@
-# Instagram_App
+# Project 3 - *Instagram App*
 
-# Project 3 - *Name of App Here*
-
-**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
+**Instagram App** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **4** hours spent in total
 
@@ -10,10 +8,10 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x] User can sign up to create a new account using Parse authentication.
+- [X] User can sign up to create a new account using Parse authentication.
 - [X] User can log in and log out of his or her account.
 - [ ] The current signed in user is persisted across app restarts.
-- [x] User can take a photo, add a caption, and post it to "Instagram".
+- [X] User can take a photo, add a caption, and post it to "Instagram".
 
 The following **optional** features are implemented:
 
@@ -35,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Getting Login to persist
 
 ## Open-source libraries used
 
