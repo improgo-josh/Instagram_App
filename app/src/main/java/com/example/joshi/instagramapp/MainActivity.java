@@ -185,8 +185,3 @@ public class MainActivity extends AppCompatActivity {
         finish();
     }
 }
-//parse-dashboard --appId josh-instagram-codepath --masterKey josh-instagram-codepath-MASTER --serverURL "https://josh-instagram-codepath.herokuapp.com/parse"
-//        curl -X POST -H "X-Parse-Application-Id: josh-instagram-codepath" \
-//        -H "Content-Type: application/json" \
-//        -d '{"score":1337,"playerName":"Sean Plott","cheatMode":false}' \
-//        https://josh-instagram-codepath.herokuapp.com/parse
