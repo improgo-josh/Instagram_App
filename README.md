@@ -10,7 +10,7 @@ The following **required** functionality is completed:
 
 - [X] User can sign up to create a new account using Parse authentication.
 - [X] User can log in and log out of his or her account.
-- [ ] The current signed in user is persisted across app restarts.
+- [X] The current signed in user is persisted across app restarts.
 - [X] User can take a photo, add a caption, and post it to "Instagram".
 
 The following **optional** features are implemented:
@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Getting Login to persist
+Had difficulty figuring out how to get login to persist, but was able to accomplish it by accessing current user in the onCreate method of the LoginActivity class.
 
 ## Open-source libraries used
 
